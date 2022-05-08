@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Edgar Grimberg
+- 👀 I’m interested in C/C++ and embedded programming
